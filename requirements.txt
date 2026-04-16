@@ -1,0 +1,31 @@
+# Core numerical
+numpy==2.4.2
+scipy==1.17.0
+
+# Deep learning (CUDA 12.6 builds — adjust +cuXXX suffix for your CUDA version)
+torch==2.10.0+cu126
+torchaudio==2.10.0+cu126
+torchvision==0.25.0+cu126
+
+# MRI NUFFT
+torchkbnufft==1.5.2
+
+# Image quality metrics
+scikit-image==0.26.0
+
+# Data loading
+h5py==3.16.0
+
+# Plotting & visualisation
+matplotlib==3.10.8
+pillow==12.1.1
+
+# Progress bars
+tqdm==4.67.3
+
+# Data export
+pandas==3.0.2
+
+# Notebook / interactive
+ipython
+ipykernel

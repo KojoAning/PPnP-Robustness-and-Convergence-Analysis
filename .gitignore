@@ -1,2 +1,4 @@
 norm-equivMSECh1_20240320_SE_DRUCNNBrainDenoise_sigma0.1.pth
 norm-equivMSECh1_20240320_SE_DRUCNNKneeDenoise_sigma0.1.pth
+data/dataset.hdf5
+data/file1000000.h5
